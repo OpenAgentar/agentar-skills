@@ -1,0 +1,11 @@
+.git/
+.DS_Store
+node_modules/
+dist/
+*.zip
+.env
+.env.*
+*.pem
+*.key
+*.secret
+*.credentials

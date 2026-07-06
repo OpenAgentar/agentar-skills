@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Agentar CLI",
+      "description": "Skills for installing, validating, and operating the Agentar CLI.",
+      "skills": ["agentar"]
+    }
+  ]
+}
